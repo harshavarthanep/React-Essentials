@@ -63,6 +63,10 @@
 
 <br/>
 
+`🤩` [For More Emoji](https://emojipedia.org/)
+
+<br/>
+
 
 ![GitHub all releases](https://img.shields.io/github/downloads/{harshavarthanep}/{React-Essentials}/total)
 ![GitHub top language](https://img.shields.io/github/languages/top/{harshavarthanep}/{React-Essentials}?color=yellow)
