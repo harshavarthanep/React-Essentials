@@ -60,3 +60,12 @@
 
 > [!IMPORTANT]
 > _Have a Wonderful Day_ :tada:
+
+<br/>
+
+
+![GitHub all releases](https://img.shields.io/github/downloads/{harshavarthanep}/{React-Essentials}/total)
+![GitHub top language](https://img.shields.io/github/languages/top/{harshavarthanep}/{React-Essentials}?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{harshavarthanep}/{React-Essentials})
+![GitHub forks](https://img.shields.io/github/forks/{harshavarthanep}/{React-Essentials}?style=social) 
+![GitHub Repo stars](https://img.shields.io/github/stars/{harshavarthanep}/{React-Essentials}?style=social)
