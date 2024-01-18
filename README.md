@@ -1,5 +1,9 @@
-# React-Essentials 
 -------------
+
+# React-Essentials
+
+-------------
+
 > [!NOTE]
 > _This might be helpful if you are starting to work on React from scratch!!!_
 
@@ -27,6 +31,9 @@
 
 -------------
 
+# MERN STACK
+
+-------------
 ## > MERN Stack(MongoDB, Express, React, Node)
 - `Youtube Complete Playlist:` https://www.youtube.com/playlist?list=PLS3Cbnye46mu2DTyFXfOeefex6L8In9zg
 
