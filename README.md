@@ -1,11 +1,15 @@
 -------------
 
-# ✨ React-Essentials
+# React-Essentials
 
 -------------
 
 > [!NOTE]
 >   📌  _This might be helpful if you are starting to work on React from scratch!!!_ 💯
+
+-------------
+
+# ✨ REACT & NODE
 
 -------------
 
