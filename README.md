@@ -6,9 +6,9 @@ From Scratch(YouTube):
 
   YouTube Video with Repository:
   - Form Validation1: https://www.youtube.com/watch?v=tIdNeoHniEY
-    - GitHub Form Validation1: https://github.com/safak/youtube/tree/react-form
+    - GitHub(Form Validation1): https://github.com/safak/youtube/tree/react-form
   - Form Validation2: https://www.youtube.com/watch?v=EYpdEYK25Dc
-    - GitHub Form Validation2: https://github.com/dmalvia/React_Forms_Tutorials/tree/use-native
+    - GitHub(Form Validation2): https://github.com/dmalvia/React_Forms_Tutorials/tree/use-native
 
 Handy Links:
 - Event Handling: https://www.robinwieruch.de/react-event-handler/
@@ -24,12 +24,12 @@ MERN Stack(MongoDB, Express, React, Node)
   Important Videos From Playlist
   - Login Page 1: https://www.youtube.com/watch?v=adMD46G5BXU
   - Login Page 2: https://www.youtube.com/watch?v=6oTDAyuQ5iw
-  - GitHub 1: https://github.com/the-debug-arena/login-registration-server-node
-  - GitHub 2: https://github.com/the-debug-arena/login-registration?tab=readme-ov-file
+    - GitHub(Login Page 2) 1: https://github.com/the-debug-arena/login-registration-server-node
+    - GitHub(Login Page 2) 2: https://github.com/the-debug-arena/login-registration?tab=readme-ov-file
 
 DB and Connectivity Videos
 - Create DB in MongoDB(Brief Explanation): https://www.youtube.com/watch?v=t3UjWbh7mqI
 - Create DB in MongoDB(under one min): https://www.youtube.com/shorts/pIHvoXkwmq4
 - Basic Login & Register(with source code): https://www.youtube.com/watch?v=S9eCBX-Re8A
-  - Login & Register GitHub: https://github.com/engineerFayyaz/React-Login-Form
+  - GitHub (Login & Register): https://github.com/engineerFayyaz/React-Login-Form
 - Login & Register: https://www.youtube.com/watch?v=ZVyIIyZJutM
