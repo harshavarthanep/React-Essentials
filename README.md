@@ -37,7 +37,7 @@
 
 -------------
 ## > MERN Stack(MongoDB, Express, React, Node)
-- `💡Youtube Complete Playlist:` 🔗 https://www.youtube.com/playlist?list=PLS3Cbnye46mu2DTyFXfOeefex6L8In9zg
+- `💡YouTube Complete Playlist:` 🔗 https://www.youtube.com/playlist?list=PLS3Cbnye46mu2DTyFXfOeefex6L8In9zg
 
   ### _Important Videos From Playlist_
   - `💡Login Page 1:` 🔗 https://www.youtube.com/watch?v=adMD46G5BXU
