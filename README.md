@@ -31,5 +31,5 @@ DB and Connectivity Videos
 - Create DB in MongoDB(Brief Explanation): https://www.youtube.com/watch?v=t3UjWbh7mqI
 - Create DB in MongoDB(under one min): https://www.youtube.com/shorts/pIHvoXkwmq4
 - Basic Login & Register(with source code): https://www.youtube.com/watch?v=S9eCBX-Re8A
-  - GitHub (Login & Register): https://github.com/engineerFayyaz/React-Login-Form
+  - GitHub(Login & Register): https://github.com/engineerFayyaz/React-Login-Form
 - Login & Register: https://www.youtube.com/watch?v=ZVyIIyZJutM
