@@ -40,12 +40,12 @@
 - `💡YouTube Complete Playlist:` 🔗 https://www.youtube.com/playlist?list=PLS3Cbnye46mu2DTyFXfOeefex6L8In9zg
 
   ### _Important Videos From Playlist_
-  - `💡Login Page 1:` 🔗 https://www.youtube.com/watch?v=adMD46G5BXU
+  - `💡Login Page Part 1:` 🔗 https://www.youtube.com/watch?v=adMD46G5BXU
   <br/>
   
-  - `💡Login Page 2:` 🔗 https://www.youtube.com/watch?v=6oTDAyuQ5iw
-  - 🔗 [GitHub(Login Page 2) 1]( https://github.com/the-debug-arena/login-registration-server-node)
-  - 🔗 [GitHub(Login Page 2) 2]( https://github.com/the-debug-arena/login-registration?tab=readme-ov-file)
+  - `💡Login Page Part 2:` 🔗 https://www.youtube.com/watch?v=6oTDAyuQ5iw
+  - 🔗 [GitHub(Login Page 2) Part 1]( https://github.com/the-debug-arena/login-registration-server-node)
+  - 🔗 [GitHub(Login Page 2) Part 2]( https://github.com/the-debug-arena/login-registration?tab=readme-ov-file)
 
 -------------
 
