@@ -15,12 +15,12 @@
 - `💡Basics of React(Free-code-camp):` 🔗 https://www.youtube.com/watch?v=bMknfKXIFA8&t=800s
 
   ### _YouTube Video with Repository:_
-  - `💡Form Validation1:` 🔗 https://www.youtube.com/watch?v=tIdNeoHniEY
-  - 🔗 [GitHub(Form Validation1)]( https://github.com/safak/youtube/tree/react-form) 
+  - `💡Form Validation 1:` 🔗 https://www.youtube.com/watch?v=tIdNeoHniEY
+  - 🔗 [GitHub(Form Validation 1)]( https://github.com/safak/youtube/tree/react-form) 
   <br/>
 
-  - `💡Form Validation2:` 🔗 https://www.youtube.com/watch?v=EYpdEYK25Dc 
-  - 🔗 [GitHub(Form Validation2)]( https://github.com/dmalvia/React_Forms_Tutorials/tree/use-native)
+  - `💡Form Validation 2:` 🔗 https://www.youtube.com/watch?v=EYpdEYK25Dc 
+  - 🔗 [GitHub(Form Validation 2)]( https://github.com/dmalvia/React_Forms_Tutorials/tree/use-native)
 
 -------------
 
@@ -40,10 +40,10 @@
 - `💡YouTube Complete Playlist:` 🔗 https://www.youtube.com/playlist?list=PLS3Cbnye46mu2DTyFXfOeefex6L8In9zg
 
   ### _Important Videos From Playlist_
-  - `💡Login Page Part 1:` 🔗 https://www.youtube.com/watch?v=adMD46G5BXU
+  - `💡Login Page 1:` 🔗 https://www.youtube.com/watch?v=adMD46G5BXU
   <br/>
   
-  - `💡Login Page Part 2:` 🔗 https://www.youtube.com/watch?v=6oTDAyuQ5iw
+  - `💡Login Page 2:` 🔗 https://www.youtube.com/watch?v=6oTDAyuQ5iw
   - 🔗 [GitHub(Login Page 2) Part 1]( https://github.com/the-debug-arena/login-registration-server-node)
   - 🔗 [GitHub(Login Page 2) Part 2]( https://github.com/the-debug-arena/login-registration?tab=readme-ov-file)
 
