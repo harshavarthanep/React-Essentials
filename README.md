@@ -37,14 +37,14 @@
 
 -------------
 
-## > Install MongoDB & MongoShell
+## 💻 Install MongoDB & MongoShell
 - `🔦 MongoDB:` 📄 https://www.mongodb.com/try/download/community
 - `🔦 MongoShell:` 📄 https://www.mongodb.com/try/download/shell
 - `🎬 Installation:` 🔗 https://www.youtube.com/watch?v=gB6WLkSrtJk
 
 -------------
 
-## > MERN Stack(MongoDB, Express, React, Node)
+## 🗂️ MERN Stack(MongoDB, Express, React, Node)
 - `🎬YouTube Complete Playlist:` 🔗 https://www.youtube.com/playlist?list=PLS3Cbnye46mu2DTyFXfOeefex6L8In9zg
 
   ### _Important Videos From Playlist_
