@@ -56,6 +56,9 @@
 - 🔗 [GitHub(Login & Register)]( https://github.com/engineerFayyaz/React-Login-Form)
 - `💡Login & Register:` 🔗 https://www.youtube.com/watch?v=ZVyIIyZJutM
 
+## > References
+- `💡Complete Login Page(GitHub)` 🔗 https://github.com/AbhishaShah/Registration-and-Login-using-MERN-stack?tab=readme-ov-file
+
 -------------
 
 <br/>
