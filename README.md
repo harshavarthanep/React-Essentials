@@ -16,11 +16,11 @@
 
   ### _YouTube Video with Repository:_
   - `💡Form Validation 1:` 🔗 https://www.youtube.com/watch?v=tIdNeoHniEY
-  - 🔗 [GitHub(Form Validation 1)]( https://github.com/safak/youtube/tree/react-form) 
+  - `📄` [GitHub(Form Validation 1)]( https://github.com/safak/youtube/tree/react-form) 
   <br/>
 
   - `💡Form Validation 2:` 🔗 https://www.youtube.com/watch?v=EYpdEYK25Dc 
-  - 🔗 [GitHub(Form Validation 2)]( https://github.com/dmalvia/React_Forms_Tutorials/tree/use-native)
+  - `📄` [GitHub(Form Validation 2)]( https://github.com/dmalvia/React_Forms_Tutorials/tree/use-native)
 
 -------------
 
@@ -36,28 +36,39 @@
 # 🚀 MERN STACK 
 
 -------------
-## > MERN Stack(MongoDB, Express, React, Node)
-- `💡YouTube Complete Playlist:` 🔗 https://www.youtube.com/playlist?list=PLS3Cbnye46mu2DTyFXfOeefex6L8In9zg
 
-  ### _Important Videos From Playlist_
-  - `💡Login Page 1:` 🔗 https://www.youtube.com/watch?v=adMD46G5BXU
-  <br/>
-  
-  - `💡Login Page 2:` 🔗 https://www.youtube.com/watch?v=6oTDAyuQ5iw
-  - 🔗 [GitHub(Login Page 2) Part 1]( https://github.com/the-debug-arena/login-registration-server-node)
-  - 🔗 [GitHub(Login Page 2) Part 2]( https://github.com/the-debug-arena/login-registration?tab=readme-ov-file)
+## > Install MongoDB & MongoShell
+- `🔦 MongoDB:` 📄 https://www.mongodb.com/try/download/community
+- `🔦 MongoShell:` 📄 https://www.mongodb.com/try/download/shell
+- `🎬 Installation:` 🔗 https://www.youtube.com/watch?v=gB6WLkSrtJk
 
 -------------
 
-## > DB and Connectivity Videos
-- `💡Create DB in MongoDB(Brief Explanation):` 🔗 https://www.youtube.com/watch?v=t3UjWbh7mqI
-- `💡Create DB in MongoDB(under one min):` 🔗 https://www.youtube.com/shorts/pIHvoXkwmq4
-- `💡Basic Login & Register(with source code):` 🔗 https://www.youtube.com/watch?v=S9eCBX-Re8A
-- 🔗 [GitHub(Login & Register)]( https://github.com/engineerFayyaz/React-Login-Form)
-- `💡Login & Register:` 🔗 https://www.youtube.com/watch?v=ZVyIIyZJutM
+## > MERN Stack(MongoDB, Express, React, Node)
+- `🎬YouTube Complete Playlist:` 🔗 https://www.youtube.com/playlist?list=PLS3Cbnye46mu2DTyFXfOeefex6L8In9zg
 
-## > References
-- `💡Complete Login Page(GitHub)` 🔗 https://github.com/AbhishaShah/Registration-and-Login-using-MERN-stack?tab=readme-ov-file
+  ### _Important Videos From Playlist_
+  - `🎬Login Page 1:` 🔗 https://www.youtube.com/watch?v=adMD46G5BXU
+  <br/>
+  
+  - `🎬Login Page 2:` 🔗 https://www.youtube.com/watch?v=6oTDAyuQ5iw
+  - 📄 [GitHub(Login Page 2) Part 1]( https://github.com/the-debug-arena/login-registration-server-node)
+  - 📄 [GitHub(Login Page 2) Part 2]( https://github.com/the-debug-arena/login-registration?tab=readme-ov-file)
+
+-------------
+
+## 📁 DB and Connectivity Videos
+- `📂Create DB in MongoDB(Brief Explanation):` 🔗 https://www.youtube.com/watch?v=t3UjWbh7mqI
+- `📂Create DB in MongoDB(under one min):` 🔗 https://www.youtube.com/shorts/pIHvoXkwmq4
+- `📂Basic Login & Register(with source code):` 🔗 https://www.youtube.com/watch?v=S9eCBX-Re8A
+- `📄`[GitHub(Login & Register)]( https://github.com/engineerFayyaz/React-Login-Form)
+- `📂Login & Register:` 🔗 https://www.youtube.com/watch?v=ZVyIIyZJutM
+
+## 📁 References
+- `📄Complete Login Page(GitHub):` 🔗 https://github.com/AbhishaShah/Registration-and-Login-using-MERN-stack?tab=readme-ov-file
+
+## 🧭 Working Projects
+- `📌Complete Login Page(GitHub):` 🔗  https://github.com/AkshataGanbote/Registration_Login_Form_MERN_Stack?tab=readme-ov-file
 
 -------------
 
