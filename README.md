@@ -52,8 +52,8 @@
   <br/>
   
   - `🎬Login Page 2:` 🔗 https://www.youtube.com/watch?v=6oTDAyuQ5iw
-  - 📄 [GitHub(Login Page 2) Part 1]( https://github.com/the-debug-arena/login-registration-server-node)
-  - 📄 [GitHub(Login Page 2) Part 2]( https://github.com/the-debug-arena/login-registration?tab=readme-ov-file)
+  - `📄` [GitHub(Login Page 2) Part 1]( https://github.com/the-debug-arena/login-registration-server-node)
+  - `📄` [GitHub(Login Page 2) Part 2]( https://github.com/the-debug-arena/login-registration?tab=readme-ov-file)
 
 -------------
 
