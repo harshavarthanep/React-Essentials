@@ -26,7 +26,7 @@
 
 ## > Handy Links:
 - `💡Event Handling:` 🔗 https://www.robinwieruch.de/react-event-handler/
-- `💡Default Country Code with Country Code:` 🔗 https://codesandbox.io/p/sandbox/react-country-phone-code-picker-brmxs?file=%2Fsrc%2FApp.js
+- `💡Default Country Code with Country Flag:` 🔗 https://codesandbox.io/p/sandbox/react-country-phone-code-picker-brmxs?file=%2Fsrc%2FApp.js
 - `💡All about Phone(Country code, Flag, Alignment):` 🔗 https://catamphetamine.github.io/react-phone-number-input/
 - `💡Form Building Basics(Free-code-camp):` 🔗 https://www.freecodecamp.org/news/how-to-build-forms-in-react/
 - `💡Semantic UI:` 🔗 https://semantic-ui.com/collections/message.html
